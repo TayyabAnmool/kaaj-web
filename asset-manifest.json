@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaaj-web/static/css/main.a6d0d1b7.css",
+    "main.js": "/kaaj-web/static/js/main.52c513c3.js",
+    "static/js/453.2afe69a4.chunk.js": "/kaaj-web/static/js/453.2afe69a4.chunk.js",
+    "index.html": "/kaaj-web/index.html",
+    "main.a6d0d1b7.css.map": "/kaaj-web/static/css/main.a6d0d1b7.css.map",
+    "main.52c513c3.js.map": "/kaaj-web/static/js/main.52c513c3.js.map",
+    "453.2afe69a4.chunk.js.map": "/kaaj-web/static/js/453.2afe69a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d0d1b7.css",
+    "static/js/main.52c513c3.js"
+  ]
+}
